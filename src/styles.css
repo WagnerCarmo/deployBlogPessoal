@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Atma&family=Kalam&family=Marck+Script&display=swap');
+
+* {
+    font-family:'kalam'
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.fs-50 {
+    font-size: 50pt;
+}
+
+.fs-18 {
+    font-size: 18pt;
+}
